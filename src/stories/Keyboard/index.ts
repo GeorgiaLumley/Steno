@@ -1,1 +1,1 @@
-export * from "./Keys/Keyboard.stories";
+export * from "./Keys/KeyboardKey.stories";

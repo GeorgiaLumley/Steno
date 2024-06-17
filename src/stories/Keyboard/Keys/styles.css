@@ -7,7 +7,7 @@
   align-items: center;
   padding: 1.75rem;
   text-transform: capitalize;
-  margin-bottom: 0.75rem;
+  margin: 0.25rem;
 }
 
 .keyboard-letter {
@@ -25,7 +25,8 @@
 }
 
 .keyboard-key-middle {
-  height: 15.75rem;
+  /* height: 14rem; */
+  height: auto;
 }
 
 .keyboard-key-numbar {
