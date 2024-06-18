@@ -8,6 +8,21 @@
   padding: 1.75rem;
   text-transform: capitalize;
   margin: 0.25rem;
+
+  &.blue {
+    background-color: #97b4ff;
+  }
+
+  &.red {
+    background-color: #ffab89;
+  }
+
+  &.yellow {
+    background-color: #ffdb82;
+  }
+  &.purple {
+    background-color: #cfb9f3;
+  }
 }
 
 .keyboard-letter {
